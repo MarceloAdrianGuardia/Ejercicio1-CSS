@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    font-size: 5vh;
+}
+
+.box {
+    display: inline-block;
+    width: 40vh;
+    height: 40vh;
+    background: red;
+    color: yellow;
+    padding: 1vh;
+    margin: 1vh;
+}
+
+#dos {
+    background: black;
+    color: white;
+}
